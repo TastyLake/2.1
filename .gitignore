@@ -1,0 +1,8 @@
+tmp/
+
+*_old
+
+*_backup
+
+*humbs.db 
+*.DS_Store
